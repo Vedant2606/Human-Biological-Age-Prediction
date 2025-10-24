@@ -52,8 +52,8 @@ The project followed a standard, rigorous data science methodology, moving from 
 
 ### **Key Results**
 
-* \[**Insert Model Performance Here** \- e.g., "The final model achieved an MAE of X years on the test set, indicating an average prediction accuracy within X years of the actual age."\]  
-* \[**Insert Top Predictors Here** \- e.g., "Feature Importance analysis revealed biomarkers A, B, and C as the strongest predictors of biological age."\]
+* \[**MAE: 4.21** \- e.g., "The final model achieved an MAE of 4.21 on the test set, indicating an average prediction accuracy of the actual age."\]  
+* \[**R2 Score: 0.93** \- e.g., "Feature Importance analysis revealed biomarkers Bone Density and Vision Sharpness as the strongest predictors of biological age."\]
 
 ### **Future Work**
 
